@@ -17,4 +17,3 @@ to MAXPERIODS and skyrockets the performance of the program.
 ### Possible Optimizations
 
 * Re-introduce PPSize and find a goldilocks zone for amount of signal elements per processor.
-* 
